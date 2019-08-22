@@ -1,0 +1,21 @@
+Name: Student One (student1)
+Assignment: Recursion
+Date Submitted: Saturday, August 17, 2019 12:51:51 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: LinkedList.cpp
+	Filename: Assignment_student1_attempt_2019-08-17-12-51-51_LinkedList.cpp
+
+	Original filename: TESTS.txt
+	Filename: Assignment_student1_attempt_2019-08-17-12-51-51_TESTS.txt
+
+	Original filename: BFS.cpp
+	Filename: Assignment_student1_attempt_2019-08-17-12-51-51_BFS.cpp
+
