@@ -41,7 +41,7 @@ Clone this repository or copy the python script `blackboard_to_codepost_manual.p
 
 Move the downloaded submissions into the same directory as the script and name the folder `submissions`.
 
-Move the `roster.csv` file you created into the same directory as the script. Make sure this file is called `roster.csv.`
+Move the `roster.csv` file you created into the same directory as the script. Make sure this file is called `roster.csv`.
 
 ## 3. Run the script
 
