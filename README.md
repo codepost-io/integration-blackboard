@@ -35,7 +35,7 @@ liskovbarbara,liskov@school.edu
 coopersheldon,cooper@school.edu
 ```
 
-## 1. Setting up the script
+## 2. Setting up the script
 
 Clone this repository or copy the python script `blackboard_to_codepost_manual.py` to your local machine.
 
