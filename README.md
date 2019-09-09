@@ -26,7 +26,7 @@ In your Blackboard Instance Original Course View, to `Course -> Grade Center -> 
 
 Since the Blackboard downloads are indexed by Student Blackboard ID, we need to map {Blackboard ID} to {Email} in order to upload to codePost.
 
-Create a roster.csv with the following information:
+Create a `roster.csv` with the following information:
 
 ```
 blackboard_id,email
@@ -41,7 +41,7 @@ Clone this repository or copy the python script `blackboard_to_codepost_manual.p
 
 Move the downloaded submissions into the same directory as the script and name the folder `submissions`.
 
-Move the roster.csv file you created into the same directory as the script. Make sure this file is called `roster.csv.`
+Move the `roster.csv` file you created into the same directory as the script. Make sure this file is called `roster.csv.`
 
 ## 3. Run the script
 
